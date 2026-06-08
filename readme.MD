@@ -1,4 +1,5 @@
 Catatan:
+
 Inheritance
 Inheritance (pewarisan) dalam Java adalah mekanisme di mana sebuah class (disebut subclass atau child class) dapat mewarisi properti (attribute) dan perilaku (method) dari class lain (disebut superclass atau parent class).
 
