@@ -71,7 +71,7 @@ public abstract class MenuItem {
     /*
         Method abstrak yang harus dioverride oleh setiap subclass.
         Digunakan untuk menampilkan informasi menu sesuai jenisnya.
-        Meupakan konsep dari abstraction dan polymorphism.
+        Merupakan konsep dari abstraction dan polymorphism.
     */
 
     public abstract void tampilMenu();

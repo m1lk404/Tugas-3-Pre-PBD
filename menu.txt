@@ -1,0 +1,11 @@
+MAKANAN;Nasi Rendang;25000.0;Makanan;Menu Utama
+MAKANAN;Nasi Ayam Bakar;25000.0;Makanan;Menu Utama
+MAKANAN;Kerupuk;5000.0;Makanan;Menu Tambahan
+MINUMAN;Es Teh;8000.0;Minuman;Teh;
+MINUMAN;Teh Panas;8000.0;Minuman;Teh;
+MINUMAN;Kopi Hitam;10000.0;Minuman;Kopi;
+DISKON;Promo Mahasiswa;0.0;Diskon;10.0
+DISKON;Promo Weekend;0.0;Diskon;20.0
+MAKANAN;Nasi Ayam Balado;25000.0;Makanan;Menu Utama
+MINUMAN;Jus Alpukat;15000.0;Minuman;Jus;
+DISKON;Promo Weekday;0.0;Diskon;15.0

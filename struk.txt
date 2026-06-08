@@ -1,0 +1,10 @@
+
+===== STRUK PESANAN =====
+Nasi Rendang x 2 = Rp50.000
+Nasi x 1 = Rp8.000
+Es Teh x 4 = Rp32.000
+
+Diskon : Promo Mahasiswa
+Total Sebelum Diskon : Rp90.000
+Nilai Diskon : Rp9.000
+Total Bayar : Rp81.000

@@ -28,10 +28,12 @@ public class Minuman extends MenuItem {
         this.jenisMinuman = jenisMinuman;
     }
 
+    // Mengambil jenis minuman
     public String getJenisMinuman() {
         return jenisMinuman;
     }
 
+    // Mengubah jenis minuman
     public void setJenisMinuman(String jenisMinuman) {
         this.jenisMinuman = jenisMinuman;
     }

@@ -19,3 +19,9 @@ Object Composition (Komposisi Objek) pada Java adalah sebuah prinsip desain bero
 
 ArrayList
 ArrayList adalah kelas dalam Java yang digunakan untuk menyimpan daftar objek dengan ukuran yang dapat berubah secara dinamis. Tidak seperti array biasa, ArrayList dapat mengembang atau menyusut secara otomatis saat elemen ditambahkan atau dihapus.
+
+Exception Handling
+Exception Handling pada Java adalah mekanisme untuk menangani error saat runtime (program berjalan), seperti pembagian dengan nol atau file yang hilang.
+
+File I/O
+File I/O (Input/Output) pada Java adalah proses membaca dan menulis data dari/ke penyimpanan permanen (seperti hard drive).

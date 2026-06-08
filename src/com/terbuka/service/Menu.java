@@ -56,7 +56,7 @@ public class Menu {
         }
     }
 
-    // Mengambil menu berdasarkan nomor dan nomo menu dimulai dari 1
+    // Mengambil menu berdasarkan nomor menu dimulai dari 1
     public MenuItem cariMenu(int nomorMenu) throws MenuNotFoundException {
         int index = nomorMenu - 1;
 
